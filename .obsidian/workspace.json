@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5958a5b006f769d",
+        "id": "c7107b3ea12dea91",
         "type": "tabs",
         "children": [
           {
-            "id": "7db6eeaf36153c44",
+            "id": "f5e84e8737a4f541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阿斯顿/asdad.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "asdad.md"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阿斯顿/asdad.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "asdad.md 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阿斯顿/asdad.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "asdad.md 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阿斯顿/asdad.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "asdad.md 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -194,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db6eeaf36153c44",
+  "active": "f5e84e8737a4f541",
   "lastOpenFiles": [
-    "欢迎.md",
     "阿斯顿/asdad.md.md",
+    "README.md",
+    "欢迎.md",
     "阿斯顿"
   ]
 }

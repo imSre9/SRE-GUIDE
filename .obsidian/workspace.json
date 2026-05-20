@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、SRE概述和技能要求/SRE概述与技能要求.md",
+                "file": "2、Google SRE运维解密/1-SRE方法论/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRE概述与技能要求"
+              "title": "未命名"
             }
           }
         ]
@@ -194,11 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "630d236001d69944",
+  "active": "f5e84e8737a4f541",
   "lastOpenFiles": [
-    "3、SRE核心实践与流程/负载均衡",
     "README.md",
+    "2、Google SRE运维解密/1-SRE方法论/未命名.md",
+    "2、Google SRE运维解密/2-指导思想",
+    "2、Google SRE运维解密/1-SRE方法论",
     "1、SRE概述和技能要求/SRE概述与技能要求.md",
+    "2、Google SRE运维解密/未命名.md",
+    "3、SRE核心实践与流程/负载均衡",
     "3、SRE核心实践与流程/平台研发",
     "3、SRE核心实践与流程/算法",
     "3、SRE核心实践与流程/容灾体系",
@@ -206,9 +210,6 @@
     "3、SRE核心实践与流程/资源规划",
     "3、SRE核心实践与流程/稳定性",
     "3、SRE核心实践与流程/自动化",
-    "3、SRE核心实践与流程/可观测",
-    "3、SRE核心实践与流程",
-    "2、Google SRE运维解密",
     "欢迎.md",
     "阿斯顿/asdad.md.md"
   ]

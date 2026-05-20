@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2、Google SRE运维解密/1-SRE方法论/未命名.md",
+                "file": "2、Google SRE运维解密/1-SRE方法论/2026-5-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2026-5-20"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1、SRE概述和技能要求/SRE概述与技能要求.md",
+                "file": "2、Google SRE运维解密/1-SRE方法论/2026-5-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SRE概述与技能要求 的大纲"
+              "title": "2026-5-20 的大纲"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,7 +197,7 @@
   "active": "f5e84e8737a4f541",
   "lastOpenFiles": [
     "README.md",
-    "2、Google SRE运维解密/1-SRE方法论/未命名.md",
+    "2、Google SRE运维解密/1-SRE方法论/2026-5-20.md",
     "2、Google SRE运维解密/2-指导思想",
     "2、Google SRE运维解密/1-SRE方法论",
     "1、SRE概述和技能要求/SRE概述与技能要求.md",
